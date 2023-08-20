@@ -618,9 +618,7 @@ footer nav ul {
   font-weight: 700;
   color: white;
   font-size: 1em;
-  height: 2.5em;
   background-color: #1d6154;
-  width: 50%;
   text-align: center;
   border-radius: 60px;
   cursor: pointer;
@@ -657,3 +655,6 @@ footer nav ul {
   max-height: 200px;
 }
 
+#image {
+  display: none;
+}
